@@ -1,2 +1,2 @@
-# arm3ds
-Augmented Reality Mathematical 3D Surfaces
+# ARM3DS
+## Augmented Reality Mathematical 3D Surfaces
